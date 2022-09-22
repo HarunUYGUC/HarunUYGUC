@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning Python on my own with the help of Udemy.
 - 🔭 I’m currently working on Python's main structures like "If - For - Functions"
-- 📫 How to reach me: GitHub: HarunUyguc or StackOverFlow: Harun UYGUÇ.
+- 📫 How to reach me: GitHub: HarunUYGUC or StackOverFlow: Harun UYGUÇ.
 - 💬 You can something ask me about Python. 
 - ⚡ My Thoughts: I've been thinking for almost a year about my further career and now I'm considering to be a Data Scientist or Machine Learning Engineer.
 
@@ -10,16 +10,15 @@
 **HarunUYGUC/HarunUYGUC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+"""
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+"""
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-
-
 - 😄 Pronouns: ...
 -->
