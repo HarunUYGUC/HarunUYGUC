@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Python's main structures like "If - For - Functions"
 - 📫 How to reach me: GitHub: HarunUYGUC or StackOverFlow: Harun UYGUÇ.
 - 💬 You can something ask me about Python. 
-- ⚡ My Thoughts: I've been thinking for almost a year about my further career and now I'm considering to be a Data Scientist or Machine Learning Engineer.
+- ⚡ My Thoughts: I've been thinking for almost a year about my further career and now I'm considering to be a Data Scientist or Machine Learning Engineer. But my thoughts may change in the future.
 
 <!--
 **HarunUYGUC/HarunUYGUC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
