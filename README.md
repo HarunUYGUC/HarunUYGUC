@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on Python's main structures like "Functions - Error Handling - Modules"
 - 📫 How to reach me: 
 > GitHub: HarunUYGUC 
+### https://github.com/HarunUYGUC
 > LinkedIn: Harun Uyguç
 ### https://www.linkedin.com/in/harun-uyguc/
 > StackOverFlow: Harun Uyguç
