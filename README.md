@@ -2,9 +2,14 @@
 
 - 🌱 I'm currently learning Python on my own with the help of Udemy.
 - 🔭 I’m currently working on Python's main structures like "Functions - Error Handling - Modules"
-- 📫 How to reach me: GitHub: HarunUYGUC or StackOverFlow: Harun Uyguç
+- 📫 How to reach me: 
+> GitHub: HarunUYGUC 
+> LinkedIn: Harun Uyguç
+### https://www.linkedin.com/in/harun-uyguc/
+> StackOverFlow: Harun Uyguç
+### https://stackoverflow.com/users/19988617/harun-uygu%c3%a7
 - 💬 You can something ask me about Python. 
-- ⚡ My Thoughts: I've been thinking for almost a year about my further career and now I'm considering to be a Data Scientist or Machine Learning Engineer. But my thoughts may change in the future.
+- ⚡ My Thoughts: I've been thinking for almost a year about my further career and now I'm considering to be a Data Scientist, Machine Learning Engineer or Artificial Intelligence Engineer. But my thoughts may change in the future.
 
 <!--
 **HarunUYGUC/HarunUYGUC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
