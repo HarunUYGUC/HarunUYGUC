@@ -3,8 +3,6 @@
 - 🌱 I'm currently learning Python on my own with the help of Udemy. Now I have learned well and from now on I should deal with projects.
 - 🔭 I worked on Python's main structures such as "Data Types - If - Functions - Error Handling - Modules" and learned the basics of Python.
 - 📫 How to reach me: 
-> GitHub: HarunUYGUC 
-### https://github.com/HarunUYGUC
 > LinkedIn: Harun Uyguç
 ### https://www.linkedin.com/in/harun-uyguc/
 > StackOverFlow: Harun Uyguç
