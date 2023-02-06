@@ -1,7 +1,7 @@
 ### Hi there, I'm Harun. 👋
 
 - 🌱 I'm currently learning Python on my own with the help of Udemy. Now I have learned well and from now on I should deal with projects.
-- 🔭 I worked on Python's main structures such as "Data Types - If - Functions - Error Handling - Modules" and learned the basics of Python.
+- 🔭 I worked on Python's main structures such as "Data Types - Functions - Error Handling - Modules - OOP" and learned the basics of Python.
 - 💬 You can something ask me about Python. 
 - ⚡ My Thoughts: I've been thinking for almost a year about my further career and now I'm considering to be a Data Scientist, Machine Learning Engineer or Artificial Intelligence Engineer. But my thoughts may change in the future.
 
