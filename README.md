@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Harun. 👋<br>🌱 I learned Python but of course there is still a lot to learn and now I am learning C & C++.<br>🔭 I worked on Python's main structures such as "Data Types - Functions - Error Handling - Modules - OOP" and learned the basics of Python.<br>⚡ My Thoughts: I've been thinking for almost a year about my further career and now I'm considering to be a Data Scientist, Machine Learning Engineer or Artificial Intelligence Engineer. But my thoughts may change in the future.
+Hi there, I'm Harun. 👋<br>🌱 I learned Python but of course there is still a lot to learn and now I am learning C & C++.<br>🔭 I worked on Python's main structures such as "Data Types - Functions - Error Handling - Modules - OOP" and learned the basics of Python.<br>⚡ My Thoughts: I'm considering to be a Data Scientist, Machine Learning Engineer or Artificial Intelligence Engineer. But my thoughts may change in the future.
 
 
 ## 🌐 Socials:
