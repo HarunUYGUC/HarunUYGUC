@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Harun. 👋<br>🌱 I learned Python but of course there is still a lot to learn and now I am learning C & C++.<br>⚡ My Thoughts: I'm considering to be a Data Scientist, Machine Learning Engineer or Artificial Intelligence Engineer. But my thoughts may change in the future.
+Hi there, I'm Harun. 👋<br>🔭 I've learned Python well enough, but I'm still trying to learn new things by trying to make something.<br>🌱 I know a little bit of C and C++.<br>⚡ I'm considering to be a Data Scientist, Machine Learning Engineer or Artificial Intelligence Engineer. But my thoughts may change in the future.
 
 
 ## 🌐 Socials:
@@ -18,19 +18,13 @@ Hi there, I'm Harun. 👋<br>🌱 I learned Python but of course there is still 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<!--
-### Hi there, I'm Harun. 👋
-- 🌱 I'm currently learning Python on my own with the help of Udemy. Now I have learned well and from now on I should deal with projects.
-- 🔭 I worked on Python's main structures such as "Data Types - Functions - Error Handling - Modules - OOP" and learned the basics of Python.
-- 💬 You can something ask me about Python. 
-- ⚡ My Thoughts: I've been thinking for almost a year about my further career and now I'm considering to be a Data Scientist, Machine Learning Engineer or Artificial Intelligence Engineer. But my thoughts may change in the future.
--->
 
 <!--
 **HarunUYGUC/HarunUYGUC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 """
+### Hi there, I'm ... 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
@@ -41,10 +35,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
-
-- 📫 How to reach me: 
-> LinkedIn: Harun Uyguç
-### https://www.linkedin.com/in/harun-uyguc/
-> StackOverFlow: Harun Uyguç
-### https://stackoverflow.com/users/19988617/harun-uygu%c3%a7
 -->
