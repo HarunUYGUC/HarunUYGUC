@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Harun. 👋 <br>✨ I'm a computer engineering student at a university in Turkey. It was not mandatory, but I studied English preparatory class between 2021-2022.<br>🔭 I've learned Python well enough, but I'm still trying to learn new things by trying to make something.<br>🌱 I also know C, C++ and Java at a sufficient level.<br>⚡ I'm considering to be a Data Scientist, Machine Learning Engineer or Artificial Intelligence Engineer. But my thoughts may change in the future.
+Hi there, I'm Harun. 👋 <br>✨ I'm a computer engineering student at a university in Turkey. It was not mandatory, but I studied English preparatory class between 2021-2022.<br>🔭 I've learned Python well enough, but I'm still trying to learn new things by trying to make something.<br>🌱 I also know C, C++, C# and Java at a sufficient level.<br>⚡ I'm considering to be a Data Scientist, Machine Learning Engineer or Artificial Intelligence Engineer. But my thoughts may change in the future.
 
 
 ## 🌐 Socials:
