@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Harun. 👋 <br>✨ I'm a computer engineering student at a university in Turkey. It was not mandatory, but I studied English preparatory class between 2021-2022.<br>🔭 I've learned Python well enough, but I'm still trying to learn new things by trying to do things and solving algorithms.<br>⚡ I am studying to become a Data Scientist, Machine Learning Engineer, or Artificial Intelligence Engineer. That's why I work with Jupyter Notebook.
+Hi there, I'm Harun. 👋 <br>✨ I'm a computer engineering student at a university in Turkey. It was not mandatory, but I studied English preparatory class between 2021-2022.<br>🔭 I've learned Python well enough, but I'm still trying to learn new things by trying to do things and solving algorithms.<br>⚡ I am studying to become a Data Scientist, Machine Learning Engineer, or Artificial Intelligence Engineer.
 
 
 ## 🌐 Socials:
