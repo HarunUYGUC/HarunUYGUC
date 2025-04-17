@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Harun. 👋 <br>🔭 I've learned Python well enough, but I'm still trying to learn new things by trying to do things and solving algorithms.<br>⚡I am a computer engineering student on my way to becoming a Full Stack Developer.
+Hi there, I'm Harun. 👋<br>⚡I am a computer engineering student on my way to becoming a Full Stack Developer.
 
 
 ## 🌐 Socials:
