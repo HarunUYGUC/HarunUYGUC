@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hi there, I'm Harun. 👋<br>⚡I am a computer engineering student on my way to becoming a Full Stack Developer.
+# Hi there, I'm Harun! 👋
+
+I focus on building scalable, end-to-end web applications using React and ASP.NET Core. Driven by a broad interest in software technologies, I am actively seeking new opportunities to tackle technical challenges and grow as an engineer.
+
+## 💻 What I Do
+* 🚀 Building responsive and dynamic web applications.
+* 🧠 Consistently practicing data structures and algorithms in Python to strengthen my analytical thinking and write optimized code.
 
 
 ## 🌐 Socials:
