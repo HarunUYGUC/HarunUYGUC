@@ -1,10 +1,6 @@
 # Hi there, I'm Harun! 👋
 
-I focus on building scalable, end-to-end web applications using React and ASP.NET Core. Driven by a broad interest in software technologies, I am actively seeking new opportunities to tackle technical challenges and grow as an engineer.
-
-## 💻 What I Do
-* 🚀 Building responsive and dynamic web applications.
-* 🧠 Consistently practicing data structures and algorithms in Python to strengthen my analytical thinking and write optimized code.
+Software Developer with hands-on experience building web applications, browser extensions, and developer tools using React and modern JavaScript. Experienced in developing responsive web interfaces with HTML5, CSS3, and Bootstrap, supported by foundational backend knowledge in ASP.NET Core. Seeking opportunities to tackle challenging engineering problems and deliver impactful software solutions.
 
 
 ## 🌐 Socials:
