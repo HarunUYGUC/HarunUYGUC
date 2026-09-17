@@ -1,6 +1,6 @@
 # Hi there, I'm Harun! 👋
 
-Software Developer with hands-on experience building web applications, browser extensions, and developer tools using React and modern JavaScript. Experienced in developing responsive web interfaces with HTML5, CSS3, and Bootstrap, supported by foundational backend knowledge in ASP.NET Core. Seeking opportunities to tackle challenging engineering problems and deliver impactful software solutions.
+Software Developer with hands-on experience building web applications, browser extensions, and developer tools using React, TypeScript and modern JavaScript. Experienced in developing responsive web interfaces with HTML5, CSS3, and Bootstrap, supported by foundational backend knowledge in ASP.NET Core. Seeking opportunities to tackle challenging engineering problems and deliver impactful software solutions.
 
 
 ## 🌐 Socials:
