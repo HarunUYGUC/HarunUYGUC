@@ -1,6 +1,6 @@
 # Hi there, I'm Harun! 👋
 
-Software Developer building web applications, browser extensions, and tools with React, TypeScript, and modern JavaScript. Comfortable across the stack, from responsive interfaces in Bootstrap to backend services in ASP.NET Core. Eager to contribuıte clean, maintainable code to production systems and grow within an active engineering team.
+Software Developer building web applications, browser extensions, and tools with React, TypeScript, and modern JavaScript. Comfortable across the stack, from responsive interfaces in Bootstrap to backend services in ASP.NET Core. Eager to contribute clean, maintainable code to production systems and grow within an active engineering team.
 
 
 ## 🌐 Socials:
